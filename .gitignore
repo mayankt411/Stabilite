@@ -1,0 +1,14 @@
+﻿# Arduino & IDE build outputs
+*.hex
+*.elf
+*.bin
+build/
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
